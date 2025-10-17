@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+scikit-learn
+google-generativeai
+python-dotenv
+spacy
